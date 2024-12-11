@@ -48,8 +48,6 @@ Insights were extracted from the passing networks by applying popular network sc
 
 <br>
 
-![Passing Network : Modularity](/Output/Modularity.png)
-
 ## Author 
 
 - [Anurag Roy](https://github.com/anuragdotexe)
