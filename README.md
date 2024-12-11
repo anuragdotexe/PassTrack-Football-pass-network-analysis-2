@@ -24,7 +24,6 @@ Matplotlib, in conjunction with [mpsoccer](https://github.com/andrewRowlinson/mp
 
 <br>
 
-![2019 UCL Final Passing Network](/Output/Passing%20Network.png)
 
 ## Network Science Metrics 
 
@@ -46,7 +45,6 @@ Insights were extracted from the passing networks by applying popular network sc
 
 ## Sample Passing Networks 
 
-![Passing Network : Weighted Degree](/Output/Weighted%20Degree.png)
 
 <br>
 
